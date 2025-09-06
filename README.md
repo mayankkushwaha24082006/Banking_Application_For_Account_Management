@@ -37,4 +37,5 @@ This is a beginner-friendly Java-based console application that simulates basic 
 
 1. Clone this repository.
 2. Compile the code using:
+   
    javac UserInterface.java
